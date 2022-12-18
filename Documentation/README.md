@@ -24,13 +24,6 @@ Isentropic compression phase: the gas in the engine is thermally insulated from 
 
 In this experiment, the Carnot cycle is demonstrated so that the user can understand how the P-V graph changes as various pressure and volume parameters change.
 
-<h5> Target Audience : </h5>
-<li>Under Graduate</li>
-<li>B.E/B.Tech in Mechanical Engineering</li>
-<li>Post Graduate</li>
-<li>M.Tech/MS in Transportation Engineering and Highway Engineering</li>
-<li>Diploma in Civil Engineering</li>
-
 #### Developer Details
 
 <b>Name of Developer | <b> K V Gangadharan
