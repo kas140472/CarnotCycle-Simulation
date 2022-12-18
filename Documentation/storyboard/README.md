@@ -61,7 +61,7 @@ In this experiment, the Carnot cycle is demonstrated so that the user can unders
    <li>None of the above</li>
    </ol>
 
-   Answer: a
+     Answer: A
 
   2. The isothermal process of the Carnot cycle requires _____ movement of the piston to maintain constant temperature:
 
@@ -72,7 +72,7 @@ In this experiment, the Carnot cycle is demonstrated so that the user can unders
   <li>Medium</li>
   </ol>
 
-  Answer: a
+    Answer: A
 
   3. The Carnot cycle consists of:
 
@@ -83,84 +83,86 @@ In this experiment, the Carnot cycle is demonstrated so that the user can unders
   <li>Two isobars and two reversible adiabatic curves</li>
   </ol>
 
-  Answer: c
+    Answer: C
 
   4. The area under the Carnot cycle graph represents the:
 
-   <ol type="a">
+  <ol type="a">
   <li>Work done by the system</li>
   <li>Total entropy change in the system</li>
   <li>Heat added to the system</li>
   <li>Efficiency of the cycle</li>
   </ol>
 
-  Answer: a
+    Answer: A
 
   5. Which of the following cycles has the highest efficiency?
 
-   <ol type="a">
+  <ol type="a">
   <li>Otto</li>
   <li>Brayton</li>
   <li>Dual</li>
   <li>Carnot</li>
   </ol>
 
-  Answer: d
+    Answer: D
 
-**2.4.b Questions after simulation**
+**2.4.b Questions after simulation**:
 
-6. If the temperatures at the cold and hot reservoirs of a Carnot engine are 300 K and 750 K respectively, what is the efficiency of the Carnot cycle?
+  6. If the temperatures at the cold and hot reservoirs of a Carnot engine are 300 K and 750 K respectively, what is the efficiency of the Carnot cycle?
 
-<ol type="a">
-<li>45%</li>
-<li>55%</li>
-<li>60%</li>
-<li>65%</li>
-</ol>
-Answer: c
+  <ol type="a">
+  <li>45%</li>
+  <li>55%</li>
+  <li>60%</li>
+  <li>65%</li>
+  </ol>
 
+    Answer: C
 
-7. If P1 is 1.3 kPa, v1 is 2.5 m3, v2 is 6 m3, what is the pressure at the end of the isothermal heat addition process in a Carnot cycle?
+  7. If P1 is 1.3 kPa, v1 is 2.5 m3, v2 is 6 m3, what is the pressure at the end of the isothermal heat addition process in a Carnot cycle?
 
-<ol type="a">
-<li> 0.35 kPa</li>
-<li> 0.46 kPa</li>
-<li> 0.51 kPa</li>
-<li> 0.54 kPa</li>
-</ol>
+  <ol type="a">
+  <li> 0.35 kPa</li>
+  <li> 0.46 kPa</li>
+  <li> 0.51 kPa</li>
+  <li> 0.54 kPa</li>
+  </ol>
 
-Answer: d
+    Answer: D
 
-8. If the heat absorbed by the Carnot engine is 2.11 kJ and the heat rejected is 1.28 kJ, what is the efficiency of the engine?
+  8. If the heat absorbed by the Carnot engine is 2.11 kJ and the heat rejected is 1.28 kJ, what is the efficiency of the engine?
 
-<ol type="a">
-<li>0.39</li>
-<li>0.42</li>
-<li>0.56</li>
-<li>0.61</li>
-</ol>
+  <ol type="a">
+  <li>0.39</li>
+  <li>0.42</li>
+  <li>0.56</li>
+  <li>0.61</li>
+  </ol>
 
-Answer: a
+    Answer: A
 
-9. If P1 is 1.3 kPa, v1 is 2.5 m3, P2 is 0.54 kPa, what is the heat absorbed by the system for a Carnot cycle?
+  9. If P1 is 1.3 kPa, v1 is 2.5 m3, P2 is 0.54 kPa, what is the heat absorbed by the system for a Carnot cycle?
 
-<ol type="a">
-<li>3.14 kJ</li>
-<li>2.84 kJ</li>
-<li>6.15 kJ</li>
-<li>5.42 kJ</li>
+  <ol type="a">
+  <li>3.14 kJ</li>
+  <li>2.84 kJ</li>
+  <li>6.15 kJ</li>
+  <li>5.42 kJ</li>
+  </ol>
 
-Answer: b
+    Answer: B
 
-10. A Carnot cycle refrigerator works between 250 K to 300 K. What is the COP value?
+  10. A Carnot cycle refrigerator works between 250 K to 300 K. What is the COP value?
 
-<ol type="a">
-<li>10</li>
-<li>20</li>
-<li>25</li>
-<li>5</li>
+  <ol type="a">
+  <li>10</li>
+  <li>20</li>
+  <li>25</li>
+  <li>5</li>
+  </ol>
 
-Answer: d
+    Answer: D
 
 **2.5 Allow pitfalls: NA**
 
