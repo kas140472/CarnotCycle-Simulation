@@ -54,7 +54,7 @@ In this experiment, the Carnot cycle is demonstrated so that the user can unders
 
   1. What is the working fluid for the Carnot cycle?
 
-    <ol type="a">
+   <ol type="a">
    <li>Ideal gas</li>
    <li>Real gas</li>
    <li>Natural gas</li>
