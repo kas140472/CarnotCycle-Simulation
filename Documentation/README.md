@@ -7,13 +7,22 @@
 <b> Lab. | <b> Thermodynamics Lab
 <b> Experiment|     <b> Carnot Cycle
 
-<h5> About the Experiment : </h5>
-
 <h5> About the Lab (Objective) : </h5>
 
 The main objective of this lab is to demonstrate the Carnot cycle so that the user can understand how the P-V graph changes as various pressure and volume parameters change.
 
 <h5> About the Experiment : </h5>
+  
+Carnot cycle is an ideal thermodynamics cycle proposed by the French physicist Sadi Carnot. It consists of two isothermal and two reversible adiabatic curves. The cycle provides the maximum possible efficiency that can be obtained by any thermodynamic cycle. <br>
+
+The various processes involved are explained below:<br>
+
+Isothermal heat addition phase: there is a reversible adiabatic (or isentropic) heat transfer from the hot reservoir at constant temperature.<br>
+Isentropic expansion phase: the gas in the engine is thermally insulated from the hot and cold reservoirs and expanded.<br>
+Isothermal heat removal phase: there is a reversible adiabatic (or isentropic) heat transfer to the cold reservoir at constant temperature.<br>
+Isentropic compression phase: the gas in the engine is thermally insulated from the hot and cold reservoirs and compressed.<br>
+
+In this experiment, the Carnot cycle is demonstrated so that the user can understand how the P-V graph changes as various pressure and volume parameters change.
 
 <h5> Target Audience : </h5>
 <li>Under Graduate</li>
@@ -21,15 +30,6 @@ The main objective of this lab is to demonstrate the Carnot cycle so that the us
 <li>Post Graduate</li>
 <li>M.Tech/MS in Transportation Engineering and Highway Engineering</li>
 <li>Diploma in Civil Engineering</li>
-
-<h5> Course Alignment : </h5>
-
-Following are the courses in which one can come across the theory connected to the experiments in this lab :
-<li>Transportation Engineering I, II- APJ Abdul Kalam Technological University, Goa University </li>
-<li>Transportation Engineering Laboratory- APJ Abdul Kalam Technological University, Goa University </li>
-<li>Highway and Traffic Engineering- National Institute of Technology Karnataka Surathkal, Anna University</li>
-<li>Highway material Testing Laboratory- National Institute of Technology Karnataka Surathkal, Anna University</li>
-<h5> Universities Mapped : </h5>
 
 #### Developer Details
 
@@ -41,11 +41,11 @@ Following are the courses in which one can come across the theory connected to t
 
 #### Contributors List
 
-Kriti Shukla | NITK
-Drishika Nadella | NITK
-Sooraj Acharya | NITK
-Rohit Kushwaha | NITK
-Ranjan Tunga S | NITK
-Akshaya | NITK
-Anusha B Salian | NITK
-Vishwas A S| NITK
+Kriti Shukla | NITK <br>
+Drishika Nadella | NITK <br>
+Sooraj Acharya | NITK <br>
+Rohit Kushwaha | NITK <br>
+Ranjan Tunga S | NITK <br>
+Akshaya | NITK <br>
+Anusha B Salian | NITK <br>
+Vishwas A S | NITK <br>
