@@ -115,7 +115,7 @@ Additional assessment questions:
 
   1. What is the working fluid for the Carnot cycle?
 
-    <ol type="a">
+   <ol type="a">
    <li>Ideal gas</li>
    <li>Real gas</li>
    <li>Natural gas</li>
@@ -148,7 +148,7 @@ Additional assessment questions:
 
   4. The area under the Carnot cycle graph represents the:
 
-   <ol type="a">
+  <ol type="a">
   <li>Work done by the system</li>
   <li>Total entropy change in the system</li>
   <li>Heat added to the system</li>
@@ -159,7 +159,7 @@ Additional assessment questions:
 
   5. Which of the following cycles has the highest efficiency?
 
-   <ol type="a">
+  <ol type="a">
   <li>Otto</li>
   <li>Brayton</li>
   <li>Dual</li>
@@ -181,8 +181,8 @@ Additional assessment questions:
 <li>60%</li>
 <li>65%</li>
 </ol>
-Answer: c
 
+Answer: c
 
 7. If P1 is 1.3 kPa, v1 is 2.5 m3, v2 is 6 m3, what is the pressure at the end of the isothermal heat addition process in a Carnot cycle?
 
@@ -213,6 +213,7 @@ Answer: a
 <li>2.84 kJ</li>
 <li>6.15 kJ</li>
 <li>5.42 kJ</li>
+</ol>
 
 Answer: b
 
@@ -223,6 +224,7 @@ Answer: b
 <li>20</li>
 <li>25</li>
 <li>5</li>
+</ol>
 
 Answer: d
 
