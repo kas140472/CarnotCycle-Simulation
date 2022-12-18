@@ -23,22 +23,3 @@ Isothermal heat removal phase: there is a reversible adiabatic (or isentropic) h
 Isentropic compression phase: the gas in the engine is thermally insulated from the hot and cold reservoirs and compressed.<br>
 
 In this experiment, the Carnot cycle is demonstrated so that the user can understand how the P-V graph changes as various pressure and volume parameters change.
-
-#### Developer Details
-
-<b>Name of Developer | <b> K V Gangadharan
-:--|:--|
-<b> Institute | <b> National Institute of Technology Karnataka, Surathkal
-<b> Email id|   <b> kvganga@nitk.ac.in
-<b> Department | <b> Mechanical Engineering
-
-#### Contributors List
-
-Kriti Shukla | NITK <br>
-Drishika Nadella | NITK <br>
-Sooraj Acharya | NITK <br>
-Rohit Kushwaha | NITK <br>
-Ranjan Tunga S | NITK <br>
-Akshaya | NITK <br>
-Anusha B Salian | NITK <br>
-Vishwas A S | NITK <br>
