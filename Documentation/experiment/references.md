@@ -13,7 +13,7 @@
     <td>Developer : Dr. K V Gangadharan | NITK</br></br>
     Contributors :
     <ul style="list-style-type: none;">
-    <li>Kriti Shukla| NITK</li>
+    <li>Kriti Shukla | NITK</li>
     <li>Drishika Nadella | NITK</li>
     <li>Sooraj Acharya | NITK</li>
     <li>Rohit Kushwaha | NITK</li>
